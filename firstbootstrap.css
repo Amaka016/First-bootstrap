@@ -1,0 +1,25 @@
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+} 
+
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+/* .nnn{
+    
+    border-top-left-radius: 1em;
+    
+    border-bottom-left-radius: 1em;
+    border-color: red;
+}
+
+.ooo{
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+    border-color: red;
+} */
